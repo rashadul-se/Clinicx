@@ -1,0 +1,2 @@
+# Clinicx
+Clinic management ERP
